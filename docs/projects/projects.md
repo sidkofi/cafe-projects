@@ -5,4 +5,4 @@ nav_order: 2
 has_children: true
 permalink: /docs/projects
 ---
-Over the course of the semester we have been working on many projects combining skills in both software and hardware.
+We have been using more advanced computer architecture skills as well as FPGA and RTL Design principles to implement various projects, you can check out the documentation for them here.
